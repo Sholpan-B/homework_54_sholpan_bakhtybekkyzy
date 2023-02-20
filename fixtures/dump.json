@@ -1,0 +1,596 @@
+[
+{
+  "model": "webapp.category",
+  "pk": 1,
+  "fields": {
+    "title": "Laptops",
+    "description": ""
+  }
+},
+{
+  "model": "webapp.category",
+  "pk": 2,
+  "fields": {
+    "title": "Tablets",
+    "description": ""
+  }
+},
+{
+  "model": "webapp.category",
+  "pk": 3,
+  "fields": {
+    "title": "Cell Phones & Accessories",
+    "description": ""
+  }
+},
+{
+  "model": "webapp.category",
+  "pk": 4,
+  "fields": {
+    "title": "Headphones, Earbuds & Accessories",
+    "description": ""
+  }
+},
+{
+  "model": "webapp.category",
+  "pk": 5,
+  "fields": {
+    "title": "eBook Readers & Accessories",
+    "description": ""
+  }
+},
+{
+  "model": "webapp.category",
+  "pk": 6,
+  "fields": {
+    "title": "Phone",
+    "description": ""
+  }
+},
+{
+  "model": "webapp.category",
+  "pk": 7,
+  "fields": {
+    "title": "ddrh",
+    "description": "egg"
+  }
+},
+{
+  "model": "webapp.category",
+  "pk": 8,
+  "fields": {
+    "title": "phone",
+    "description": "ee"
+  }
+},
+{
+  "model": "webapp.category",
+  "pk": 9,
+  "fields": {
+    "title": "Camera & Photo",
+    "description": ""
+  }
+},
+{
+  "model": "webapp.product",
+  "pk": 5,
+  "fields": {
+    "title": "SAMSUNG EVO Select Micro SD-Memory-Card + Adapter, 256GB microSDXC 130MB/s Full HD & 4K UHD, UHS-I, U3, A2, V30, Expanded Storage for Android Smartphones, Tablets, Nintendo-Switch (MB-ME256KA/AM)",
+    "description": "ALL THE SPACE YOU NEED: Store tons of media on your phone, load games or download more apps on your tablet at top-notch speed, making transfers seamless and reliable\r\n    FAST AND SMOOTH: With superfast U3, class 10 rated transfer speeds of up to 130MB/s¹,²and UHS-I Interface³ big apps load and run smoothly, while 4K video remains sharp with A2, V30, and USH-I Interface\r\n    EXPAND AND STORE BIG: Find your perfect fit from 64GB, 128GB, 256GB and 512GB; Select the best capacity for all your memories. Speed class: U3\r\n    YOU'RE FULLY PROTECTED: EVO Select Plus provides reliable storage and takes on life’s adventures with water⁴, temperature⁵, X-ray⁶, ⁷magnet, drop⁸, and wears⁹ out protection; Backed by a 10-year limited warranty; Proofs are for the microSD card and do not include the adaptor\r\n    FLASH MEMORY CARD: Performance and reliability you can count on from the flash memory brand; All firmware and components are produced in-house",
+    "category": 3,
+    "created_at": "2023-02-19T10:02:17.288Z",
+    "price": "30.49",
+    "image": "static/images/cell.jpg"
+  }
+},
+{
+  "model": "webapp.product",
+  "pk": 6,
+  "fields": {
+    "title": "Lenovo 2022 Newest Ideapad 3 Laptop, 15.6\" HD Touchscreen, 11th Gen Intel Core i3-1115G4 Processor, 8GB DDR4 RAM, 256GB PCIe NVMe SSD, HDMI, Webcam, Wi-Fi 5, Bluetooth, Windows 11 Home, Almond",
+    "description": "Key Features and Benefits:\r\n\r\nCPU: 11th Gen Intel Core i3-1115G4 Dual-Core 3.0GHz Processor (6MB Intel Smart Cache, up to 4.10GHz)\r\n\r\nMemory: Up to 20GB DDR4 RAM\r\n\r\nHard Drive: Up to 1TB PCIe NVMe M.2 Solid State Drive\r\n\r\nOperating System: Windows 11 Home\r\n\r\nDisplay: 15.6\" HD Touchscreen\r\n\r\nScreen Resolution: 1366 x 768\r\n\r\nBacklit Keyboard: No\r\n\r\nPorts: 2 x USB 3.2 Gen 1 Type-A, 1 x USB 2.0 Type-A, 1 x HDMI, 1 x Combination Audio Jack\r\n\r\nVideo: Intel UHD Graphics\r\n\r\nAudio: Dolby Audio with Stereo Speakers\r\n\r\nMedia Drive: Multi-format SD Media Card Reader\r\n\r\nOptical Drive: None\r\n\r\nWireless Connectivity: Wireless-AC Wi-Fi 5 and Bluetooth Combo\r\n\r\nBuilt-in HD Webcam with Microphone: Yes\r\n\r\nBattery: Lithium-ion, up to 7 Hours\r\n\r\nBluetooth: Yes\r\n\r\nWeight: 3.64 Pounds\r\n\r\nColor: Almond",
+    "category": 1,
+    "created_at": "2023-02-20T07:44:54.500Z",
+    "price": "386.00",
+    "image": "static/images/laptop.jpg"
+  }
+},
+{
+  "model": "webapp.product",
+  "pk": 7,
+  "fields": {
+    "title": "Acer Nitro 5 AN515-57-79TD Gaming Laptop | Intel Core i7-11800H | NVIDIA GeForce RTX 3050 Ti Laptop GPU | 15.6\" FHD 144Hz IPS Display | 8GB DDR4 | 512GB NVMe SSD | Killer Wi-Fi 6 | Backlit Keyboard",
+    "description": "No description",
+    "category": 1,
+    "created_at": "2023-02-20T08:22:27.851Z",
+    "price": "859.00",
+    "image": "static/images/laptop2.jpg"
+  }
+},
+{
+  "model": "webapp.product",
+  "pk": 8,
+  "fields": {
+    "title": "Sony ZX Series Wired On-Ear Headphones, Black MDR-ZX110",
+    "description": "Lightweight 1.38 in neodymium dynamic drivers deliver a punchy, rhythmic response to even the most demanding tracks. Driver Unit: Dome type\r\n    The swiveling earcup design allows easy storage when you’re not using them, and enhances portability when you’re traveling\r\n    Cushioned earpads for total comfort and enfolding closed-back design seals in sound\r\n    The wide frequency range—spanning 12 Hz to 22 kHz—delivers deep bass, rich midrange, and soaring highs\r\n    Plug: L-shaped stereo mini plug 3.5mm",
+    "category": 4,
+    "created_at": "2023-02-20T15:24:27.121Z",
+    "price": "56.00",
+    "image": "static/images/headphones.jpg"
+  }
+},
+{
+  "model": "webapp.product",
+  "pk": 9,
+  "fields": {
+    "title": "Sony ZX Series Wired On-Ear Headphones, Black MDR-ZX110",
+    "description": "Lightweight 1.38 in neodymium dynamic drivers deliver a punchy, rhythmic response to even the most demanding tracks. Driver Unit: Dome type\r\n    The swiveling earcup design allows easy storage when you’re not using them, and enhances portability when you’re traveling\r\n    Cushioned earpads for total comfort and enfolding closed-back design seals in sound\r\n    The wide frequency range—spanning 12 Hz to 22 kHz—delivers deep bass, rich midrange, and soaring highs\r\n    Plug: L-shaped stereo mini plug 3.5mm",
+    "category": 4,
+    "created_at": "2023-02-20T15:28:27.893Z",
+    "price": "56.00",
+    "image": "static/images/hea.jpg"
+  }
+},
+{
+  "model": "webapp.product",
+  "pk": 15,
+  "fields": {
+    "title": "Lenovo - Tab P11 Plus - Tablet - 11\" 2K Display - MediaTek Octa-Core Processor - 4GB Memory - 128GB Storage - Dolby Atmos - Android 11 - Bluetooth & Wi-Fi - Long Battery Life",
+    "description": "Experience superior streaming with the stunning 2K resolution (2000 x 1200) and 11-inch TDDI IPS display on this Android tablet\r\nFind a deeper connection with all the songs, stories, and shows you love with Dolby Atmos over four speakers on the Lenovo Tab P11 Plus\r\nExperience less lag while gaming or browsing via the MediaTek Helio G90T Tab Octa-Core processor with up to 2.05GHz\r\nMultitask seamlessly with 4GB with 128GB memory; Android 11 operating system\r\nDo more while you're away from home – the Tab P11 Plus runs on up to 15 hours of streaming time on a single battery charge, plus it connects wirelessly via Bluetooth and Wi-Fi",
+    "category": 2,
+    "created_at": "2023-02-20T17:57:44.454Z",
+    "price": "76.00",
+    "image": "static/images/tablet2_r00Vv4M.jpg"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add article",
+    "content_type": 7,
+    "codename": "add_article"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change article",
+    "content_type": 7,
+    "codename": "change_article"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete article",
+    "content_type": 7,
+    "codename": "delete_article"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view article",
+    "content_type": 7,
+    "codename": "view_article"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add task",
+    "content_type": 8,
+    "codename": "add_task"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change task",
+    "content_type": 8,
+    "codename": "change_task"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete task",
+    "content_type": 8,
+    "codename": "delete_task"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view task",
+    "content_type": 8,
+    "codename": "view_task"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add task",
+    "content_type": 9,
+    "codename": "add_task"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change task",
+    "content_type": 9,
+    "codename": "change_task"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete task",
+    "content_type": 9,
+    "codename": "delete_task"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view task",
+    "content_type": 9,
+    "codename": "view_task"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add category",
+    "content_type": 10,
+    "codename": "add_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change category",
+    "content_type": 10,
+    "codename": "change_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete category",
+    "content_type": 10,
+    "codename": "delete_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view category",
+    "content_type": 10,
+    "codename": "view_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add product",
+    "content_type": 11,
+    "codename": "add_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change product",
+    "content_type": 11,
+    "codename": "change_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete product",
+    "content_type": 11,
+    "codename": "delete_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view product",
+    "content_type": 11,
+    "codename": "view_product"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$L1tdJZrbQm6YDAuta22Xz3$NMu71ZYBionGbpoIK52EWHx3sgYT7GrAQA9v9o4wWZY=",
+    "last_login": "2023-02-18T19:54:08.212Z",
+    "is_superuser": true,
+    "username": "sholpan",
+    "first_name": "",
+    "last_name": "",
+    "email": "sholpan_bsb@mail.ru",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2023-02-02T18:03:47.648Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$2JDmzFFnUO0LsTDkpYKsF8$6M0PTHtBB+HEa5R6eG0RkslfonDfKK0TEdAOUV6H4Ss=",
+    "last_login": "2023-02-15T19:31:57.491Z",
+    "is_superuser": true,
+    "username": "root",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2023-02-11T16:13:35.586Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 3,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$DcFsgXwfqP2mmp1R2hYVYx$l2vzNjSYzrg8SR5AUOlP9mA6xSf/mK4K6iY3eBCkJp8=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "John",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2023-02-11T16:20:53.613Z",
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]
